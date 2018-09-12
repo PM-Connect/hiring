@@ -5,9 +5,7 @@ Thanks for showing interest in working with PM Connect! Below is a technical tes
 
 ## Subscription API
 
-PMSubService is a subscription service that provides a company with its subscription needs, 
-
-Your task is to produce an API to handle subscribing, unsubscribing, and listing phone identifiers (a unique identifier for a phone, a phone number for example) for a given product identifier.
+PMSubService is a subscription service that provides a company with its subscription needs, your task is to produce an API to handle subscribing, unsubscribing, and listing phone identifiers (a unique identifier for a phone, a phone number for example) for a given product identifier.
 
 You will need to produce endpoints for the following functionality:
 
